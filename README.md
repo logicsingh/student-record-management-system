@@ -4,6 +4,19 @@ A beginner-friendly Python command-line application for managing student records
 
 > This is a portfolio learning project. Sample records are fictional. Record actual development dates honestly; do not backdate commits or present this newly built version as an old college submission.
 
+## Application Preview
+
+### Main Menu and Adding a Student
+![Adding a student](screenshots/add-student.png)
+
+### View All Student Records
+![Student records table](screenshots/view-students.png)
+
+### Search Student Records
+![Search results](screenshots/search-students.png)
+
+
+
 ## Features
 
 - Add a student with a unique student ID
